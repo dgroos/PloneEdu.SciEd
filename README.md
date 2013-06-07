@@ -1,6 +1,6 @@
 Authours:
 Jonathan Gutow <gutow@uwosh.edu>
-David Groos <>
+David Groos <djgroos@gmail.com>
 Laurence Loewe <loewe@wisc.edu>
 
 This repository contains an example buildout for setting up a Plone site that
